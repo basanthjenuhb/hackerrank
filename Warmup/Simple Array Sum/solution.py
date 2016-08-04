@@ -6,3 +6,4 @@ sum = 0
 for x in arr:
     sum+=x
 print sum
+
